@@ -1,0 +1,64 @@
+Over the past year the MCP project has quickly reshaped how developers are building AI agents, introducing a critical layer of standardization, and a blueprint for how LLMs can interface with applications and tools. The MCP Dev Summit will bring together MCP co-founders and contributors working on the future of MCP project with developers using it to build the next generation of AI agents. 
+submit a proposal
+
+Please be aware that the Linux Foundation will now be utilizing Sessionize for CFP submissions. Sessionize is a cloud-based event content management software designed to be intuitive and user-friendly. If you need guidance, please review how to submit your session for an event to see step-by-step instructions and helpful screenshots.
+dates to remember
+
+    CFP Closes: Monday, August 31 at 11:59 PM EAT (UTC +03:00) / Monday, August 31 at 4:59 PM EDT (UTC -04:00)
+    CFP Notifications: Monday, October 5, 2026
+    Schedule Announcement: Thursday, October 8, 2026
+    Event Dates: Thursday, November 19 – Friday, November 20, 2026
+
+suGGEsted Topics
+
+     MCP Protocol in Depth
+        Technical deep dives into the MCP protocol, architecture, transports, SDKs, extensions, and emerging standards.
+     Building with MCP
+        Practical implementations, design patterns, tools, integrations, and real-world experiences building MCP servers, clients, and applications.
+    Security, Identity + Trust
+        Auth flows, remote server security, permissioning, policy enforcement, auditability, and threat models.
+    Enterprise Adoption + Integration
+        Case studies on rolling MCP into internal platforms, developer workflows, legacy systems, governance, compliance, and org change management.
+    Agent Architecture + Orchestration
+        Design of multi-tool, multi-server, multi-agent systems on MCP, including routing, state, retries, coordination, and failure handling.
+    Ecosystem, Registries + Platform Infrastructure
+        Registries, marketplaces, gateways, hosting, remote MCP, SDKs, deployment patterns, and the shared infrastructure needed for the ecosystem to scale.
+
+submission types
+
+    Session Presentation (25 minutes in length)
+    Panel Session Presentations (25 minutes in length)
+    Workshop (75 minutes in length)
+
+important notes
+
+    All speakers are required to adhere to our Code of Conduct. We also highly recommend that speakers take our online Inclusive Speaker Orientation Course.
+    Panels (any talk with more than two speakers) must include the names of all participants in the initial submission to be considered. In addition, The Linux Foundation does not accept submissions with all-male panels in an effort to increase speaker diversity.
+    Complimentary Passes For Speakers – One complimentary pass for the event will be provided for the accepted speaker(s) per submission.
+    Avoid sales or marketing pitches and discussing unlicensed or potentially closed-source technologies when preparing your proposal; these talks are almost always rejected due to the fact that they take away from the integrity of our events, and are rarely well-received by conference attendees.
+    Reviewers must be able to confidently assess a speaker’s subject-matter expertise from the proposal. Submissions that rely heavily on AI generated or templated content often lack the specificity needed to evaluate technical depth and may be harder to advance. Please ensure your proposal clearly reflects your own experience and understanding of the topic you intend to present.
+    All accepted speakers are required to submit their slides prior to the event.
+
+preparing to submit your proposal
+
+While it is not our intention to provide you with strict instructions on how to prepare your proposal, we hope you will take a moment to review the following guidelines that we have put together to help you prepare the best submission possible. To get started, here are three things that you should consider before submitting your proposal:
+
+    What are you hoping to get from your presentation?
+    What do you expect the audience to gain from your presentation?
+    How will your presentation help better the ecosystem?
+
+There are plenty of ways to give a presentation about projects and technologies without focusing on company-specific efforts. Remember the things to consider that we mentioned above when writing your proposal and think of ways to make it interesting for attendees while still letting you share your experiences, educate the community about an issue, or generate interest in a project.
+First Time Submitting? Don’t Feel Intimidated
+
+Linux Foundation events are an excellent way to get to know the community and share your ideas and the work that you are doing and we strongly encourage first-time speakers to submit talks for our events. In the instance that you aren’t sure about your abstract, reach out to us and we will be more than happy to work with you on your proposal.
+How to submit
+First time using Sessionize?
+
+Sessionize is a cloud-based event content management software designed to be intuitive and user-friendly. If you need guidance, please review how to submit your session for an event to see step-by-step instructions and helpful screenshots.
+Submitting on behalf of somebody else?
+
+While speakers ordinarily submit their sessions themselves, it’s also common for them to have someone else do it in their name. Submitters can choose to submit as someone else and must fill out the necessary speaker fields, but the session submission process is otherwise identical to when the session is submitted by the speaker themselves.
+code of conduct
+
+The Linux Foundation is dedicated to providing a harassment-free experience for participants at all of our events. We encourage all submitters to review our complete Code of Conduct.
+
